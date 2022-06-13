@@ -1,0 +1,5 @@
+body bg - #F4F6FA
+box bg -  rgba(50, 123, 232, 0.02);
+card box shadow - 0px 15px 45px -25px rgba(1, 39, 97, 0.19);
+light bg - #F4F6FA;
+check fill - #327BE8
